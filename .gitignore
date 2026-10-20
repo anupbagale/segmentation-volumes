@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
+notebooks/volumes.csv
